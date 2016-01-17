@@ -18,3 +18,23 @@ C:\Users\StefanOrn\Documents\Visual Studio 2015\Projects\Converter2000\bin\Debug
 C:\Users\StefanOrn\Documents\Visual Studio 2015\Projects\Converter2000\bin\Debug\Converter2000.application
 C:\Users\StefanOrn\Documents\Visual Studio 2015\Projects\Converter2000\obj\Debug\Converter2000.exe.manifest
 C:\Users\StefanOrn\Documents\Visual Studio 2015\Projects\Converter2000\obj\Debug\Converter2000.application
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\bin\Debug\Converter2000.exe.config
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\obj\Debug\Converter2000.exe
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\obj\Debug\Converter2000.pdb
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\bin\Debug\Converter2000.exe.manifest
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\bin\Debug\Converter2000.application
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\bin\Debug\Converter2000.exe
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\bin\Debug\Converter2000.pdb
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\obj\Debug\Converter2000.csprojResolveAssemblyReference.cache
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\obj\Debug\MainWindow.g.cs
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\obj\Debug\App.g.cs
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\obj\Debug\Converter2000_MarkupCompile.cache
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\obj\Debug\Converter2000_MarkupCompile.lref
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\obj\Debug\MainWindow.baml
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\obj\Debug\Converter2000.g.resources
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\obj\Debug\Converter2000.Properties.Resources.resources
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\obj\Debug\Converter2000.csproj.GenerateResource.Cache
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\obj\Debug\Converter2000.exe.manifest
+C:\Users\Stefán Örn\Documents\GitHub\CurrasyConverter\obj\Debug\Converter2000.application

@@ -114,6 +114,8 @@ namespace Converter2000
         }
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
+            DependencyObject obj = new DependencyObject();
+            FocusManager.SetFocusedElement(obj, txtInput);
             keywordsPutTogether = keywords[0];
             for (int i = 1; i < keywords.Length; i++)
             {
